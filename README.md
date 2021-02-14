@@ -1,0 +1,2 @@
+# effective-fortnight
+generic functions
